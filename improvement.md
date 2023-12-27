@@ -1,0 +1,1 @@
+We can implement unit tests to ensure that each function works as expected. This can help catch bugs early.
